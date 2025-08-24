@@ -1,2 +1,4 @@
 sfefsef
 sjflajflk
+
+caluculateinterest method()
